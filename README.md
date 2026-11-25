@@ -1,7 +1,6 @@
 #  Turkey City Hunt — 81 Provinces • Conquest & Battle
 
-### 🎮 Play the Game Live
-👉 **[Play Turkey City Hunt](https://<your-username>.github.io/<your-repo-name>/)**
+### 🎮 [PLAY — Turkey City Hunt](https://zinetoytekin.github.io/gmt458_hw2/)
 
 *(Replace `<your-username>` and `<your-repo-name>` with your GitHub username and repository name after enabling GitHub Pages.)*
 
