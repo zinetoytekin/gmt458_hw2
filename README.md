@@ -2,7 +2,6 @@
 
 ### 🎮 [PLAY — Turkey City Hunt](https://zinetoytekin.github.io/gmt458_hw2/)
 
-*(Replace `<your-username>` and `<your-repo-name>` with your GitHub username and repository name after enabling GitHub Pages.)*
 
 ![Turkey City Hunt Cover](assets/hero.jpg)
 
@@ -88,10 +87,6 @@ turkiye-sehir-avi-v3/
 
 Because the game fetches `data/turkey_cities.geojson`, serve the project folder using any local static server:
 
-```bash
-# Using Python 3
-python3 -m http.server 8000
-```
 
 Then open **`http://localhost:8000`** in your browser. *(An active internet connection is required for Esri map tiles, Leaflet, Chart.js, Google Fonts, and province borders.)*
 
